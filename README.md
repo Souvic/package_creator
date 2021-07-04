@@ -1,21 +1,21 @@
 # Makes _something_ easy again!
-[![License: MIT](https://img.shields.io/github/license/Souvic/createmypypackage)](https://opensource.org/licenses/MIT)
-[![stars](https://img.shields.io/github/stars/Souvic/createmypypackage)]()
+[![License: MIT](https://img.shields.io/github/license/github_user_name_/repo_or_package_name_)](https://opensource.org/licenses/MIT)
+[![stars](https://img.shields.io/github/stars/github_user_name_/repo_or_package_name_)]()
 [![Github All Releases](https://img.shields.io/github/downloads/huggingface/transformers/total.svg)]()
-[![PyPI](https://img.shields.io/pypi/v/createmypypackage)](https://pypi.org/project/createmypypackage/)
-[![python](https://img.shields.io/github/languages/top/Souvic/createmypypackage)]()
+[![PyPI](https://img.shields.io/pypi/v/repo_or_package_name_)](https://pypi.org/project/repo_or_package_name_/)
+[![python](https://img.shields.io/github/languages/top/github_user_name_/repo_or_package_name_)]()
 
-[![Build Status](https://scrutinizer-ci.com/g/Souvic/createmypypackage/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Souvic/createmypypackage/build-status/main)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Souvic/package_creator/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Souvic/package_creator/?branch=main)
-[![Release date](https://img.shields.io/github/release-date/Souvic/createmypypackage)]()
-[![Latest Stable Version](https://img.shields.io/github/v/release/Souvic/createmypypackage)]()
+[![Build Status](https://scrutinizer-ci.com/g/github_user_name_/repo_or_package_name_/badges/build.png?b=main)](https://scrutinizer-ci.com/g/github_user_name_/repo_or_package_name_/build-status/main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/github_user_name_/package_creator/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/github_user_name_/package_creator/?branch=main)
+[![Release date](https://img.shields.io/github/release-date/github_user_name_/repo_or_package_name_)]()
+[![Latest Stable Version](https://img.shields.io/github/v/release/github_user_name_/repo_or_package_name_)]()
 
-[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FSouvic%2Fcreatemypypackage)]()
+[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fgithub_user_name_%2Frepo_or_package_name_)]()
 
 ### Support me
 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Souvic)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/github_user_name_)
 
 
 Some appreciatory description
@@ -24,12 +24,12 @@ Some appreciatory description
 
 ## Install from PyPi
 ```
-pip3 install createmypypackage
+pip3 install repo_or_package_name_
 ```
 
 ## Or Install from main branch
 ```
-pip3 install git+https://github.com/Souvic/createmypypackage.git
+pip3 install git+https://github.com/github_user_name_/repo_or_package_name_.git
 ```
 
 # One interactive command with easy-to-follow prompts to create/upload/update them all!
