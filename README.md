@@ -10,7 +10,7 @@
 [![Release date](https://img.shields.io/github/release-date/{user_name_}/{repo_or_package_name_})]()
 [![Latest Stable Version](https://img.shields.io/github/v/release/{user_name_}/{repo_or_package_name_})]()
 
-[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2F{user_name_}%2F{repo_or_package_name_})]()
+[![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2F{user_name_}%2F{repo_or_package_name_})](https://twitter.com/intent/tweet?text=I%20found%20this%20awesome%20repo%20on%20GitHub%20%26%20PyPI%20that%20simplifies%20life%20of%20developers%20so%20much!&url=https%3A%2F%2Fgithub.com%2F{user_name_}%2F{repo_or_package_name_})
 
 ### Support me
 
