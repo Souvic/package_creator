@@ -6,7 +6,7 @@
 [![python](https://img.shields.io/github/languages/top/{user_name_}/{repo_or_package_name_})]()
 
 [![Build Status](https://scrutinizer-ci.com/g/{user_name_}/{repo_or_package_name_}/badges/build.png?b=main)](https://scrutinizer-ci.com/g/{user_name_}/{repo_or_package_name_}/build-status/main)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/{user_name_}/package_creator/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/{user_name_}/package_creator/?branch=main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/{user_name_}/{repo_or_package_name_}/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/{user_name_}/{repo_or_package_name_}/?branch=main)
 [![Release date](https://img.shields.io/github/release-date/{user_name_}/{repo_or_package_name_})]()
 [![Latest Stable Version](https://img.shields.io/github/v/release/{user_name_}/{repo_or_package_name_})]()
 
@@ -32,7 +32,8 @@ pip3 install {repo_or_package_name_}
 pip3 install git+https://github.com/{user_name_}/{repo_or_package_name_}.git
 ```
 
-# One interactive command with easy-to-follow prompts to create/upload/update them all!
+# Example usage!
+Use it like this..
 ```
 cmpp
 ```
