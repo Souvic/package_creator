@@ -1,7 +1,7 @@
 # Makes _something_ easy again!
 [![License: MIT](https://img.shields.io/github/license/{user_name_}/{repo_or_package_name_})](https://opensource.org/licenses/MIT)
 [![stars](https://img.shields.io/github/stars/{user_name_}/{repo_or_package_name_})]()
-[![Github All Releases](https://img.shields.io/github/downloads/Souvic/package_creator/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/{user_name_}/{repo_or_package_name_}/total.svg)]()
 [![PyPI](https://img.shields.io/pypi/v/{repo_or_package_name_})](https://pypi.org/project/{repo_or_package_name_}/)
 [![python](https://img.shields.io/github/languages/top/{user_name_}/{repo_or_package_name_})]()
 
